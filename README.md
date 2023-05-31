@@ -17,8 +17,11 @@ git submodule update --init --recursive
 # Zydis Preprocessor
 
 ZYAN_NO_LIBC
+
 ZYDIS_NO_LIBC
+
 ZYCORE_STATIC_BUILD
+
 ZYDIS_STATIC_BUILD
 
 # Zydis library
